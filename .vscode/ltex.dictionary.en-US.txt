@@ -22,3 +22,7 @@ Factive
 Objectual
 Correia
 Skiles
+Non-transmissivism
+NPEN
+GNPEN
+irreflexive
